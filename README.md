@@ -1,5 +1,8 @@
 ## Alunos: João David && Ruan Cardozo
 
+https://www.youtube.com/watch?v=76osQgDsHpg&ab_channel=RuanCardozo
+
+
 Usando conceito de lista duplamente encadeada construam 
 Uma agenda de contatos para:
 1. guardar dados de nomes e telefones
